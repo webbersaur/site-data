@@ -1,0 +1,15 @@
+{
+  "updated": "2026-08-07",
+  "specials": {
+    "heading": "This Week at 168",
+    "note": "",
+    "items": []
+  },
+  "events": [],
+  "images": {},
+  "_shape": {
+    "specials.items": [{ "name": "", "price": "", "desc": "", "days": "" }],
+    "events": [{ "title": "", "when": "", "desc": "", "image": "", "link": "" }],
+    "images": { "slot-name": "https://absolute-url-to-image" }
+  }
+}
