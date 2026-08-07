@@ -2,18 +2,14 @@
   "updated": "2026-08-07",
   "specials": {
     "heading": "This Week at 168",
-    "note": "ROUND-TRIP TEST — remove me",
-    "items": [
-      { "name": "TEST Buffalo Chicken Quesadilla", "price": "$13", "desc": "Test item, safe to delete", "days": "Wed–Fri" }
-    ]
+    "note": "",
+    "items": []
   },
-  "events": [
-    { "title": "TEST Party", "when": "Friday Aug 21, 10pm", "desc": "Test event, safe to delete", "image": "", "link": "" }
-  ],
+  "events": [],
   "images": {},
   "_shape": {
     "specials.items": [{ "name": "", "price": "", "desc": "", "days": "" }],
     "events": [{ "title": "", "when": "", "desc": "", "image": "", "link": "" }],
-    "images": { "slot-name": "https://absolute-url-to-image" }
+    "images": { "Tuesday": "https://absolute-url-to-flyer.jpg" }
   }
 }
