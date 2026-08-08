@@ -1,13 +1,19 @@
 {
   "updated": "2026-08-08",
   "events": [],
-  "images": {},
+  "images": {
+    "Tuesday": "/media/etykqtixh2xs/yrn5okokxy5u/168-york-street-cafe-live-jazz-tuesdays-new-haven-ct?w=800",
+    "Wednesday": "/media/etykqtixh2xs/znzee3trzrcm/168-york-street-cafe-comedy-open-mic-wednesdays-new-haven-ct?w=800",
+    "Thursday": "/media/etykqtixh2xs/eq6mswa7xsya/168-york-street-cafe-karaoke-thursdays-new-haven-ct?w=800",
+    "Saturday": "/media/etykqtixh2xs/z2sfasisyzvj/168-york-street-cafe-one-sixty-ate-drag-show-saturdays-new-haven-ct?w=800"
+  },
   "_shape": {
-    "_owner": "Agency (Webbersaurus). The Change Portal NEVER writes this file — it only writes clients/168-york.json, which it overwrites wholesale on every specials publish. Keeping events and flyers here is what stops a weekly publish from clobbering them.",
+    "_owner": "Agency (Webbersaurus). The Change Portal NEVER writes this file - it only writes clients/168-york.json, which it overwrites wholesale on every specials publish. Keeping events and flyers here is what stops a weekly publish from clobbering them.",
+    "_image_urls": "Use RELATIVE /media/... paths, not absolute ones. The site is moving from 168-york-street-cafe.webbalog.com to 168yorkstcafe.com; a relative path follows the site to the new domain, an absolute one would keep pointing at the old hostname and make every flyer a cross-domain request. Append ?w=800 - webbalog resizes and converts to WebP on the fly, which turns a 2.5MB JPEG into ~330KB.",
     "events": [{ "title": "", "when": "", "desc": "", "image": "", "link": "" }],
     "images": {
-      "_note": "Keys are day labels and must match site.data/weekly exactly.",
-      "Tuesday": "https://absolute-url-to-flyer.jpg"
+      "_note": "Keys are day labels and must match site.data/weekly exactly: Every Day, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.",
+      "Tuesday": "/media/.../flyer?w=800"
     }
   }
 }
