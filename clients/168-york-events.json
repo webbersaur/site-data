@@ -1,0 +1,13 @@
+{
+  "updated": "2026-08-08",
+  "events": [],
+  "images": {},
+  "_shape": {
+    "_owner": "Agency (Webbersaurus). The Change Portal NEVER writes this file — it only writes clients/168-york.json, which it overwrites wholesale on every specials publish. Keeping events and flyers here is what stops a weekly publish from clobbering them.",
+    "events": [{ "title": "", "when": "", "desc": "", "image": "", "link": "" }],
+    "images": {
+      "_note": "Keys are day labels and must match site.data/weekly exactly.",
+      "Tuesday": "https://absolute-url-to-flyer.jpg"
+    }
+  }
+}
