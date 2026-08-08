@@ -1,15 +1,10 @@
 {
-  "updated": "2026-08-07",
-  "specials": {
-    "heading": "This Week at 168",
-    "note": "",
-    "items": []
-  },
-  "events": [],
-  "images": {},
-  "_shape": {
-    "specials.items": [{ "name": "", "price": "", "desc": "", "days": "" }],
-    "events": [{ "title": "", "when": "", "desc": "", "image": "", "link": "" }],
-    "images": { "Tuesday": "https://absolute-url-to-flyer.jpg" }
-  }
+  "posted": "2026-08-08",
+  "expires": "2026-08-09T23:59:59-04:00",
+  "heading": "This Week at 168",
+  "items": [
+    {
+      "name": "TEST — Frozen Margarita $9"
+    }
+  ]
 }
