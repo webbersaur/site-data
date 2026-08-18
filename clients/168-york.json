@@ -1,16 +1,19 @@
 {
-  "posted": "2026-08-14",
-  "expires": "2026-08-16T23:59:59-04:00",
+  "posted": "2026-08-18",
+  "expires": "2026-08-23T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
     {
-      "name": "Hot Dog 5"
+      "name": "Stuffed Pepper: Beef 14 Chicken 13 Veggie 11"
     },
     {
-      "name": "Loaded Cheese Fries 14"
+      "name": "House Special Hot Dog 6"
     },
     {
-      "name": "Victor's Hawaiian Cheeseburger"
+      "name": "Loaded Cheese Fries: Beef 14 Chicken 13 Veggie 11"
+    },
+    {
+      "name": "Victor's Hawaiin Cheeseburger 18"
     }
   ]
 }
