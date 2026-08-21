@@ -1,8 +1,11 @@
 {
-  "posted": "2026-08-19",
+  "posted": "2026-08-21",
   "expires": "2026-08-23T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
+    {
+      "name": "Happy Friday Everybody!"
+    },
     {
       "name": "Today's Specials:"
     },
@@ -16,7 +19,7 @@
       "name": "Loaded Cheese Fries: Beef 14 Chicken 13 Veggie 11"
     },
     {
-      "name": "Victor's Hawaiin Cheeseburger 18"
+      "name": "Victor's Hawaiian Cheeseburger 18"
     },
     {
       "name": "Happy Hour 4-8"
@@ -28,7 +31,7 @@
       "name": "$6 House Cocktails and Wines"
     },
     {
-      "name": "We love Thursdays. Karaoke tonight and every Thursday 9:30pm"
+      "name": "TGIF VJ Music Videos tonight!"
     }
   ]
 }
