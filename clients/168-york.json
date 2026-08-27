@@ -1,10 +1,10 @@
 {
-  "posted": "2026-08-26",
+  "posted": "2026-08-27",
   "expires": "2026-08-26T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
     {
-      "name": "Happy Wednesday!"
+      "name": "Happy Thursday!"
     },
     {
       "name": "Today's Specials:"
@@ -25,10 +25,13 @@
       "name": "Happy Hour 4-8"
     },
     {
-      "name": "$5 Bud/Bud Light/Coors Lgt/PBR/Michilob Ultra"
+      "name": "$5 Bud/Bud Light/Miller Light/Coors Light/PBR/Michelob Ultra"
     },
     {
       "name": "$6 House Cocktails and Wines"
+    },
+    {
+      "name": "Karaoke 9:30pm"
     }
   ]
 }
