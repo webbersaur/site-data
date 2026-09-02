@@ -1,13 +1,16 @@
 {
-  "posted": "2026-09-01",
+  "posted": "2026-09-02",
   "expires": "2026-08-26T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
     {
-      "name": "Happy Tuesday!"
+      "name": "Happy Wednesday!"
     },
     {
       "name": "Today's Specials:"
+    },
+    {
+      "name": "Chicken Alfredo 19 Shrimp Alfredo 21"
     },
     {
       "name": "Stuffed Pepper: Beef 15 Chicken 14 Veggie 12"
@@ -25,10 +28,16 @@
       "name": "$6 House Cocktails and Wines"
     },
     {
-      "name": "Tuesday's are Live Jazz Happy Hours from 6-8"
+      "name": "Tonight we have comedy"
     },
     {
-      "name": "Karaoke from 9:30 with Duff and Nick tonight!"
+      "name": "Every 1st and 3rd Wednesday of the month"
+    },
+    {
+      "name": "New York St Open Mic"
+    },
+    {
+      "name": "Sign up 7:30 show starts 8:30"
     }
   ]
 }
