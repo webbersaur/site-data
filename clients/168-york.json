@@ -1,40 +1,49 @@
 {
-  "posted": "2026-09-05",
+  "posted": "2026-09-09",
   "expires": "2026-09-07T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
     {
-      "name": "Happy Saturday!"
+      "name": "Snacks:"
     },
     {
-      "name": "Happy Hour 4-8"
+      "name": "Fries $6 Cheese Fries $8 Mozzarella Sticks $9"
     },
     {
-      "name": "$5 Bud/Bud Light/Miller Lgt/Coors Lgt/PBR/Michilob Ultra"
+      "name": "Chicken Tenders $10 with fries $14"
     },
     {
-      "name": "$6 House Cocktails and Wines"
+      "name": "Quesadilla: Cheese $10 Chicken $14 Mushroom $12 (comes with fries)"
     },
     {
-      "name": "Patio open all night"
+      "name": "Caesar Salad $6 Chicken Caesar Salad $14 Chicken Veggie Salad $18"
     },
     {
-      "name": "Today's Specials:"
+      "name": "Mains:"
     },
     {
-      "name": "Chicken Alfredo 20 Shrimp Alfredo 22"
+      "name": "Cheeseburger with fries $15"
     },
     {
-      "name": "New York Strip Steak (11oz with Patatas Bravas/roasted potatoes and asparagus) 34"
+      "name": "Victor's Hawaiian Burger $18"
     },
     {
-      "name": "Saturday night is Drag."
+      "name": "Chicken Sandwich with fries $15"
     },
     {
-      "name": "One Sixty ATE!"
+      "name": "Loaded Fries: Beef $14 Chicken $13 Veggie $11"
     },
     {
-      "name": "Join us with Rory Roux Lay and Enigma Jones at 10pm"
+      "name": "Stuffed Peppers: Beef $15 Chicken $13 Veggie $11"
+    },
+    {
+      "name": "Tonight's Specials:"
+    },
+    {
+      "name": "Pasta Alfredo: Chicken $20 Shrimp $22"
+    },
+    {
+      "name": "New York Strip Steak (11oz with Patatas Bravas and Asparagus) $34"
     }
   ]
 }
