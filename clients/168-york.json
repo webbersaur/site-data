@@ -1,49 +1,25 @@
 {
-  "posted": "2026-09-09",
-  "expires": "2026-09-07T23:59:59-04:00",
+  "posted": "2026-09-10",
+  "expires": "2026-09-16T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
     {
-      "name": "Snacks:"
+      "name": "Happy Thursday!"
     },
     {
-      "name": "Fries $6 Cheese Fries $8 Mozzarella Sticks $9"
-    },
-    {
-      "name": "Chicken Tenders $10 with fries $14"
-    },
-    {
-      "name": "Quesadilla: Cheese $10 Chicken $14 Mushroom $12 (comes with fries)"
-    },
-    {
-      "name": "Caesar Salad $6 Chicken Caesar Salad $14 Chicken Veggie Salad $18"
-    },
-    {
-      "name": "Mains:"
-    },
-    {
-      "name": "Cheeseburger with fries $15"
-    },
-    {
-      "name": "Victor's Hawaiian Burger $18"
-    },
-    {
-      "name": "Chicken Sandwich with fries $15"
-    },
-    {
-      "name": "Loaded Fries: Beef $14 Chicken $13 Veggie $11"
-    },
-    {
-      "name": "Stuffed Peppers: Beef $15 Chicken $13 Veggie $11"
-    },
-    {
-      "name": "Tonight's Specials:"
+      "name": "Tonight's Specials"
     },
     {
       "name": "Pasta Alfredo: Chicken $20 Shrimp $22"
     },
     {
       "name": "New York Strip Steak (11oz with Patatas Bravas and Asparagus) $34"
+    },
+    {
+      "name": "Loaded Patatas Bravas: Chicken $17 Beef $18 (Blue Cheese, Spices)"
+    },
+    {
+      "name": "Karaoke 9:30"
     }
   ]
 }
