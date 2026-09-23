@@ -1,14 +1,8 @@
 {
-  "posted": "2026-09-21",
+  "posted": "2026-09-23",
   "expires": "2026-09-29T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
-    {
-      "name": "Tuesdays are all about music!"
-    },
-    {
-      "name": "Live Jazz Happy Hour 6-8"
-    },
     {
       "name": "$5 Bud/Bud Light/Miller Light/Coors Light/PBR/Michelob Ultra"
     },
@@ -16,7 +10,10 @@
       "name": "$7 House Cocktails and Wines"
     },
     {
-      "name": "Karaoke from 9:30 with Duff and Nick tonight!"
+      "name": "Happy Hour 4-8"
+    },
+    {
+      "name": "Wednesday evening is comedy! New York St Open Mic Night."
     }
   ]
 }
