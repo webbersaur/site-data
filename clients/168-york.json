@@ -1,6 +1,6 @@
 {
-  "posted": "2026-10-08",
-  "expires": "2026-10-04T23:59:59-04:00",
+  "posted": "2026-10-15",
+  "expires": "2026-10-23T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
     {
@@ -25,7 +25,10 @@
       "name": "New York Strip Steak (11oz with Blue Cheese,Patatas Bravas and Asparagus) $34"
     },
     {
-      "name": "Lomo Saltado: Steak with rice and Patatas Bravas (egg, red onion, yellow pepper, tomato) $21"
+      "name": "Lomo Saltado: Steak with rice and fries (egg, red onion, yellow pepper, tomato) $21"
+    },
+    {
+      "name": "Homemade Lasagna $17"
     }
   ]
 }
