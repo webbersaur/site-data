@@ -1,10 +1,13 @@
 {
-  "posted": "2026-10-15",
-  "expires": "2026-10-23T23:59:59-04:00",
+  "posted": "2026-10-16",
+  "expires": "2026-10-18T23:59:59-04:00",
   "heading": "This Week at 168",
   "items": [
     {
-      "name": "Happy Thursday!"
+      "name": "Happy Friday!"
+    },
+    {
+      "name": "DJ Bob Sem Mash-UP 8-11"
     },
     {
       "name": "Happy Hour 4-8"
@@ -14,9 +17,6 @@
     },
     {
       "name": "$7 House Cocktails and Wines"
-    },
-    {
-      "name": "Karaoke from 9:30 with Duff and Nick tonight!"
     },
     {
       "name": "Tonight's Specials"
@@ -29,6 +29,9 @@
     },
     {
       "name": "Homemade Lasagna $17"
+    },
+    {
+      "name": "Homemade Flam with Tillamook Ice Cream $9"
     }
   ]
 }
